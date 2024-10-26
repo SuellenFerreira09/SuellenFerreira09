@@ -1,4 +1,4 @@
-- 👋 Olá, me chamo Suellen Ferreira!
+- 👋 Olá, sou Suellen Ferreira!
 - 🎓 Técnica em Informática e estudante de Biomedicina.
 - 💡 Apaixonada por gatos, leitora ávida de livros de mistério e suspense, e amante de filmes de terror, especialmente os de animação em stop motion!
 - 💻 Desenvolvedora Front-End apaixonada por design!
